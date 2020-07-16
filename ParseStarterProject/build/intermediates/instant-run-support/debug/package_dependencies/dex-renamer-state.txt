@@ -1,0 +1,7 @@
+#Thu Jul 16 00:37:26 IST 2020
+base.0=/Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/10
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/10/classes2.dex
+base.1=/Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/10
+file.0=/Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/10/classes.dex
