@@ -7,6 +7,7 @@
  * of patent rights can be found in the PATENTS file in the same directory.
  */
 package com.parse.starter;
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
@@ -33,6 +34,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     Boolean signUpModeActive = true;
     EditText usernameEditText;
     EditText passwordEditText;
+
+
+    public void showUserList()
+    {
+        Intent intent = new Intent(getApplicationContext(), UerListActivity.class);
+        startActivity(intent);
+    }
 
 
     @Override
@@ -123,6 +131,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
                         if (e == null) {
                             Log.i("SignUp, Success", "Done");
+
+                            showUserList();
+
                         } else {
                             Toast.makeText(MainActivity.this, e.getMessage(), Toast.LENGTH_SHORT).show();
                             Log.i("SignUp Failed", "Not Done !!!!!");
@@ -143,6 +154,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                         if(user != null)
                         {
                             Log.i("Login Successfull", "Inside App, Logged In");
+                            showUserList();                                                          ////////////////////////////// Have myself added this line
                         }
                         else {
                             //e.printStackTrace();
@@ -186,6 +198,12 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
 
       passwordEditText.setOnKeyListener(this);
+
+
+      if(ParseUser.getCurrentUser() != null)
+      {
+          showUserList();
+      }
 
 
 

@@ -3916,6 +3916,10 @@
         "source": "/Users/samarpan/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-23.0.0.aar/dc668c2930b00bf6877cd092b223b2d3/res/drawable-hdpi/ic_media_route_on_1_mono_dark.png"
     },
     {
+        "merged": "/Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout_activity_uer_list.xml.flat",
+        "source": "/Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/res/layout/activity_uer_list.xml"
+    },
+    {
         "merged": "/Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
         "source": "/Users/samarpan/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/656c978d30910a9e8a124de393ab7551/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
     },
