@@ -1,6 +1,28 @@
 {
     "logs": [
         {
+            "outputFile": "/Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/values-te-rIN_values-te-rIN.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/samarpan/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-23.0.0.aar/dc668c2930b00bf6877cd092b223b2d3/res/values-te-rIN/values-te-rIN.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "282,397,514,627,739,865,965,1064,1187,1296,1383",
+                        "endColumns": "114,116,112,111,125,99,98,122,108,86,94",
+                        "endOffsets": "392,509,622,734,860,960,1059,1182,1291,1378,1473"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,170,287,400,512,638,738,837,960,1069,1156",
+                        "endColumns": "114,116,112,111,125,99,98,122,108,86,94",
+                        "endOffsets": "165,282,395,507,633,733,832,955,1064,1151,1246"
+                    }
+                }
+            ]
+        },
+        {
             "outputFile": "/Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/values-ta_values-ta.arsc.flat",
             "map": [
                 {
@@ -125,28 +147,6 @@
             ]
         },
         {
-            "outputFile": "/Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/values-te-rIN_values-te-rIN.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/samarpan/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-23.0.0.aar/dc668c2930b00bf6877cd092b223b2d3/res/values-te-rIN/values-te-rIN.xml",
-                    "from": {
-                        "startLines": "4,5,6,7,8,9,10,11,12,13,14",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "282,397,514,627,739,865,965,1064,1187,1296,1383",
-                        "endColumns": "114,116,112,111,125,99,98,122,108,86,94",
-                        "endOffsets": "392,509,622,734,860,960,1059,1182,1291,1378,1473"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,170,287,400,512,638,738,837,960,1069,1156",
-                        "endColumns": "114,116,112,111,125,99,98,122,108,86,94",
-                        "endOffsets": "165,282,395,507,633,733,832,955,1064,1151,1246"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "/Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/values-ky-rKG_values-ky-rKG.arsc.flat",
             "map": [
                 {
@@ -186,6 +186,22 @@
                         "startOffsets": "55,163,279,389,490,610,712,808,927,1036,1123",
                         "endColumns": "107,115,109,100,119,101,95,118,108,86,95",
                         "endOffsets": "158,274,384,485,605,707,803,922,1031,1118,1214"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/values-v17_values-v17.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/samarpan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/d3251f3b39138c48c0d43fda4e03b87c/res/values-v17/values-v17.xml",
+                    "from": {
+                        "startLines": "2,5,9,12,15,18,22,26,29,32,35,39,42,46",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,228,456,614,764,936,1164,1406,1577,1751,1920,2193,2393,2597",
+                        "endLines": "4,8,11,14,17,21,25,28,31,34,38,41,45,49",
+                        "endColumns": "12,12,12,12,12,12,12,12,12,12,12,12,12,12",
+                        "endOffsets": "223,451,609,759,931,1159,1401,1572,1746,1915,2188,2388,2592,2921"
                     }
                 }
             ]
@@ -327,22 +343,6 @@
                         "startOffsets": "3168,3313,3458",
                         "endColumns": "144,144,92",
                         "endOffsets": "3308,3453,3546"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/values-v17_values-v17.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/samarpan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/d3251f3b39138c48c0d43fda4e03b87c/res/values-v17/values-v17.xml",
-                    "from": {
-                        "startLines": "2,5,9,12,15,18,22,26,29,32,35,39,42,46",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,228,456,614,764,936,1164,1406,1577,1751,1920,2193,2393,2597",
-                        "endLines": "4,8,11,14,17,21,25,28,31,34,38,41,45,49",
-                        "endColumns": "12,12,12,12,12,12,12,12,12,12,12,12,12,12",
-                        "endOffsets": "223,451,609,759,931,1159,1401,1572,1746,1915,2188,2388,2592,2921"
                     }
                 }
             ]
@@ -526,28 +526,6 @@
             ]
         },
         {
-            "outputFile": "/Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/values-ml-rIN_values-ml-rIN.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/samarpan/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-23.0.0.aar/dc668c2930b00bf6877cd092b223b2d3/res/values-ml-rIN/values-ml-rIN.xml",
-                    "from": {
-                        "startLines": "4,5,6,7,8,9,10,11,12,13,14",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "282,399,517,636,744,870,984,1086,1207,1320,1408",
-                        "endColumns": "116,117,118,107,125,113,101,120,112,87,95",
-                        "endOffsets": "394,512,631,739,865,979,1081,1202,1315,1403,1499"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,172,290,409,517,643,757,859,980,1093,1181",
-                        "endColumns": "116,117,118,107,125,113,101,120,112,87,95",
-                        "endOffsets": "167,285,404,512,638,752,854,975,1088,1176,1272"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "/Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/values-ur-rPK_values-ur-rPK.arsc.flat",
             "map": [
                 {
@@ -565,6 +543,28 @@
                         "startOffsets": "55,165,277,381,490,617,718,814,933,1041,1125",
                         "endColumns": "109,111,103,108,126,100,95,118,107,83,90",
                         "endOffsets": "160,272,376,485,612,713,809,928,1036,1120,1211"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/values-ml-rIN_values-ml-rIN.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/samarpan/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-23.0.0.aar/dc668c2930b00bf6877cd092b223b2d3/res/values-ml-rIN/values-ml-rIN.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "282,399,517,636,744,870,984,1086,1207,1320,1408",
+                        "endColumns": "116,117,118,107,125,113,101,120,112,87,95",
+                        "endOffsets": "394,512,631,739,865,979,1081,1202,1315,1403,1499"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,172,290,409,517,643,757,859,980,1093,1181",
+                        "endColumns": "116,117,118,107,125,113,101,120,112,87,95",
+                        "endOffsets": "167,285,404,512,638,752,854,975,1088,1176,1272"
                     }
                 }
             ]

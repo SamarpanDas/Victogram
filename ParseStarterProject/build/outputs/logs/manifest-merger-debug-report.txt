@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-35:12
-INJECTED from /Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-35:12
-INJECTED from /Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-35:12
-INJECTED from /Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-35:12
+ADDED from /Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-36:12
+INJECTED from /Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-36:12
+INJECTED from /Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-36:12
+INJECTED from /Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-36:12
 MERGED from [com.google.android.gms:play-services:9.4.0] /Users/samarpan/.gradle/caches/transforms-1/files-1.1/play-services-9.4.0.aar/51b2a603b56400d1ec7f401edd9ede26/AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/samarpan/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/9aab1f4a87da1c934bfb6ae9cb823047/AndroidManifest.xml:2:1-10:12
 MERGED from [com.google.android.gms:play-services-cast:9.4.0] /Users/samarpan/.gradle/caches/transforms-1/files-1.1/play-services-cast-9.4.0.aar/0caf0c8c2a0f136ded5cf4fafc9afd78/AndroidManifest.xml:16:1-20:12
@@ -65,20 +65,20 @@ MERGED from [com.android.support:animated-vector-drawable:26.0.0] /Users/samarpa
 MERGED from [com.android.support:support-core-ui:26.0.0] /Users/samarpan/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/40bc2eacf5ea956733978b72e1014b63/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-vector-drawable:26.0.0] /Users/samarpan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0.aar/1d46b722f91257391d0566e5839b38fd/AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-compat:26.0.0] /Users/samarpan/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/656c978d30910a9e8a124de393ab7551/AndroidManifest.xml:17:1-31:12
-INJECTED from /Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-35:12
-INJECTED from /Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-35:12
-INJECTED from /Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-35:12
+INJECTED from /Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-36:12
+INJECTED from /Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-36:12
+INJECTED from /Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-36:12
 	package
 		ADDED from /Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:10:5-32
 		INJECTED from /Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
 		INJECTED from /Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
-		ADDED from /Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-35:12
+		ADDED from /Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-36:12
 		INJECTED from /Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
-		ADDED from /Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-35:12
+		ADDED from /Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-36:12
 		INJECTED from /Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:11-69
@@ -141,7 +141,7 @@ ADDED from /Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProj
 	android:name
 		ADDED from /Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:15:22-76
 application
-ADDED from /Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:17:5-33:19
+ADDED from /Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:18:5-34:19
 MERGED from [com.google.android.gms:play-services:9.4.0] /Users/samarpan/.gradle/caches/transforms-1/files-1.1/play-services-9.4.0.aar/51b2a603b56400d1ec7f401edd9ede26/AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services:9.4.0] /Users/samarpan/.gradle/caches/transforms-1/files-1.1/play-services-9.4.0.aar/51b2a603b56400d1ec7f401edd9ede26/AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/samarpan/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/9aab1f4a87da1c934bfb6ae9cb823047/AndroidManifest.xml:5:5-9:19
@@ -245,35 +245,35 @@ MERGED from [com.android.support:support-vector-drawable:26.0.0] /Users/samarpan
 MERGED from [com.android.support:support-compat:26.0.0] /Users/samarpan/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/656c978d30910a9e8a124de393ab7551/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-compat:26.0.0] /Users/samarpan/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/656c978d30910a9e8a124de393ab7551/AndroidManifest.xml:25:5-29:19
 	android:label
-		ADDED from /Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:21:9-41
+		ADDED from /Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:22:9-41
 	android:icon
-		ADDED from /Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:20:9-43
+		ADDED from /Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:21:9-43
 	android:allowBackup
-		ADDED from /Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:19:9-35
+		ADDED from /Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:20:9-35
 	android:theme
-		ADDED from /Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:22:9-40
+		ADDED from /Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:23:9-40
 	android:name
-		ADDED from /Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:18:9-43
+		ADDED from /Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:19:9-43
 activity#com.parse.starter.MainActivity
-ADDED from /Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:23:9-31:20
+ADDED from /Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:24:9-32:20
 	android:label
-		ADDED from /Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:25:13-45
+		ADDED from /Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:26:13-45
 	android:name
-		ADDED from /Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:24:13-41
+		ADDED from /Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:25:13-41
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:26:13-30:29
+ADDED from /Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:27:13-31:29
 action#android.intent.action.MAIN
-ADDED from /Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:27:17-69
+ADDED from /Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:28:17-69
 	android:name
-		ADDED from /Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:27:25-66
+		ADDED from /Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:28:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:29:17-77
+ADDED from /Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:30:17-77
 	android:name
-		ADDED from /Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:29:27-74
+		ADDED from /Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:30:27-74
 activity#com.parse.starter.UerListActivity
-ADDED from /Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:32:9-62
+ADDED from /Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:33:9-62
 	android:name
-		ADDED from /Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:32:19-50
+		ADDED from /Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:33:19-50
 uses-sdk
 INJECTED from /Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/samarpan/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
